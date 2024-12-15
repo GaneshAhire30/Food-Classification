@@ -1,5 +1,5 @@
 # Food-Classification
-![Uploading Resized_thumbnail_image.png…]()
+
 
 # AI PROJECT ON 101 Food Classification :-
 # BUSINESS CASE:- Based on the image data we need to predict the 101 food clases. 
