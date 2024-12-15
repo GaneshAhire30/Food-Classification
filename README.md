@@ -1,4 +1,5 @@
 # Food-Classification
+![Resized_thumbnail_image](https://github.com/user-attachments/assets/06c2fdb6-20dd-474c-89cc-2bc9ec63121f)
 
 
 # AI PROJECT ON 101 Food Classification :-
